@@ -95,6 +95,5 @@ This project is for educational/assignment purposes.
 ---
 
 ## 🔗 Connect with me
-- **LinkedIn**: [Your Profile Link Here]
-- **Email**: [Your Email Address Here]
-- **GitHub**: [Your Profile Link Here]
+- **LinkedIn**: [https://www.linkedin.com/in/devarshrajsinh-rana-7203a6344]
+- **Email**: [ranadevarshrajsinh@gmail.com]
